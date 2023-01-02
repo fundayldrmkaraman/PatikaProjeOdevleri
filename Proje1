@@ -1,0 +1,27 @@
+
+
+->[22,27,16,2,18,6] -> Insertion Sort
+
+Dizinin 1. Elemanı (22) sıralı olarak kabul edilir.
+Dizinin 2. Elemanı (27) karşılaştırmaya girer. 27>22 olduğu için dizinin sağ kısmına gelir. Böylece [22,27] olur.
+Dizinin 3.Elemanı  (16) karşılaştırılır. 16<27 ve 16<22 olduğu için dizinin en sol kısmına geçer. Yeni dizi [16,22,27] olur.
+Dizinin 4. Elemanı (2) karşılaştırılır. 2<16, 2<22, 2<27 olduğu için dizinin en sol kısmına geçer. Dizi [2,16,22,27] olur.
+Dizinin 5. Elemanı (18) karşılaştırılır.18<22 ve 27 , 18>16 ve 2 olduğundan ortaya geçer. Dizi [2,16,18,22,27] olur.
+Dizinin 6. Elemanı (6) karşılaştırılır.6<16,18,22 ve 27  , 6>2 olduğundan sola doğru geçer. Dizi [2,6,16,18,22,27] olur.
+
+->Big(O) = O(n^2) dir.
+
+->18 sayısı dizi sıralamasında ortaya geldiğinden dolayı Average Case kapsamına girer.
+
+->[7,3,5,8,2,9,4,15,6]  Selection Sort'a göre ilk 4 adımı
+
+[2,3,5,8,7,9,4,15,6]  İlk eleman 7 ile en küçük eleman 2 yer değiştirir.
+[2,3,5,8,7,9,4,15,6]  Sonraki eleman ve sonraki küçük eleman 3 olduğu için yerinde kalır.
+[2,3,4,8,7,9,5,15,6]  Sonraki eleman 5 ile sonraki küçük eleman 4 yer değiştirir.
+[2,3,4,5,7,9,8,15,6]  Sonraki eleman 8 ile sonraki küçük eleman 5 yer değiştirir.
+[2,3,4,5,6,9,8,15,7]  Sonraki eleman 7 ile sonraki küçük eleman 6 yer değiştirir.
+[2,3,4,5,6,7,8,15,9]  Sonraki eleman 9 ile sonraki küçük eleman 7 yer değiştirir.
+[2,3,4,5,6,7,8,15,9]  Sonraki eleman ve sonraki küçük eleman 8 olduğu için yerinde kalır.
+[2,3,4,5,6,7,8,9,15] Sonraki eleman 15 ile sonraki küçük eleman 9 yer değiştirir.
+Listenin sıralanmış hali = [2,3,4,5,6,7,8,9,15]
+
