@@ -1,0 +1,22 @@
+
+-> [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+Kökü 7 olarak alalım.
+5<7 olduğu için kökün soluna gelir.
+1<7 ve 5 o yüzden en sola gelir. 
+8>7 en sağa geçer.
+3 < 7 ve 5  olduğu için soldan ilerler, 3>1 olduğu için sağa gelir.
+6<7 olduğu için soldan ilerler 6>5 olduğundan sağdan devam eder.
+0<7,5,1 olduğu için en sola yerleşir.
+9>7 ve 8 olduğu için en sağdan gider.
+4<7 ve 5 olduğu için soldan devam eder 4>1 ve 3 olduğu için en sağa gider.
+2<7 ve 5 olduğu için soldan devam eder 2>1 olduğu için sağdan gider 2<3 olduğu için solda durur.
+
+
+
+                                                         7
+                                                  5            8                  
+                                             1         6            9   
+                                        0	        3 
+                                              2        4 
+
