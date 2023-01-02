@@ -1,0 +1,10 @@
+
+-> [16,21,11,8,12,22] Merge Sort Dizi ayrılabildiği kadar parçalara bölünür.
+
+[16,21,11]    [8,12,22]  Önce diziyi ikiye böldük.
+[16,21] [11] [8,12] [22] Daha sonra rahat sıralama için daha küçük parçalara böldük.
+[11,16,21]  [8,12,22] Böldüğümüz parçaları karşılaştırarak sıralama işlemi uygulayarak birleştirdik.
+[8,11,12,16,21,22] En sonunda ayrılan parçalar ile sıralanmış bir şekilde dizimizi oluşturduk.
+
+Big(O) = O(nlogn)
+
