@@ -1,0 +1,16 @@
+Merhabalar, bu yazı www.patika.dev içerisinde takip ettiğim Veri Bilimine Giriş bölümünün son görevi olan proje kısmı için oluşturulmuştur.
+
+Veri bilimi, toplanan verilerden bilgi ve tahmin etmek amacıyla bilimsel yöntem ve süreçleri, algoritma ve sistemleri kullanan bir alandır. Analiz edilen veriler anlam kazanmış olur. 
+
+Veri bilimini anlamak için öncelikle elimizdeki veriyi anlamamız gerekir.Problemin odağına uygun verileri seçerek analiz ve çözüm sürecinde sıkıntı yaşanmamalı.
+
+Veri biliminde sağlam adımlarla ilerleme kaydedebilmek için bilinmesi gereken konu başlıkları şöyledir;
+
+-Fonksiyonlar, Başlıklar, Değişkenler, Denklemler: Araştırma yapılmak istenen, bilgi edinilmeye çalışılan verilere uygun olan işlemler mutlaka doğru belirlenmeli. Problemlere göre farklılık gösteren bu adımlarda dikkatlı ve titiz davranılmalı ki hata oranı minimilize edilebilsin.
+
+-İstatistik: Sağlam bir istatistiksel düşünceye sahip olmak problemlerde çalışmayı büyük miktarda kolaylaştırır. Verilerin regresyon analizi, olasık dağılım fonksiyonları gibi çeşitli işlemler verilerin analizinde yardımcı olurlar.
+
+-Matematik: Verilerle işlem yaparken ister sayısal ister sözel olsun matematik her daim lazım olan bir disiplindir. 
+Veriler matematik kullanılarak bilimsel dille ifade edilmiş olur. Pratik gerçekleştirme adımında kullandığımız dil olarak da düşünülebilir.
+
+-Optimizasyon ve Yöneylem: Bilimin olduğu yerde pratiğin yanında teorik olarak gereken kısımda yer alan optimizasyon ve yöneylem yapılacak olan pratiğin algoritma hali denilebilir. Algoritma olmadan ya da kurmadan herhangi bir işlem yapılamaz. Ayrıca gündelik hayatta mevcut olarak her anımızda algoritma yer alır. Böylece veri biliminde problemi çözerken gerçeklik içinde yer alarak hata payı düşürülmüş olur.
