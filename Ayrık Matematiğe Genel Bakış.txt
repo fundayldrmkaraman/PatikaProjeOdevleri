@@ -1,0 +1,8 @@
+Ayrık Matematik ve Mantık
+
+Ayrık matematik, matematiğin ayrık yapılarıyla ilgilenen süreklilik içermeyen konularını kapsayan bir matematik dalıdır. Algoritmaları, programlama dillerini, otomata teorem kanıtlama ve yazılım geliştirme gibi bilgisayar bilimi dallarındaki nesneleri ve sorunları incelemek ve tanımlamak için kullanılan bir matematik disiplinidir.
+
+Ayrık yapılara örnek olarak kombinasyonlar, grafikler ve mantıksal ifadeler verilebilir. Ayrık yapılar sonlu veya sonsuz olabilir. Ayrık matematik dersi, bilgisayar bilimlerindeki birçok ders için gereken matematiksel altyapıyı sağlar.
+Bundan dolayı bilgisayar biliminin temel derslerindendir.
+
+Ayrık matematiğinin temel amaçları matematiksel düşünceyi geliştirme, kombinatoryal analizi sağlama, algoritmik düşünceyi geliştirme ve modelleme/uygulama gibi pratiğe dökülen çözümlerde aktif olma olarak tanımlanabilir.
