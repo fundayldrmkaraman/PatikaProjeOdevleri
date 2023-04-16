@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\PatikaCSharpCourse\HataYöntemi\bin\Debug\net5.0\HataYöntemi.exe
+C:\Users\Lenovo\source\repos\PatikaCSharpCourse\HataYöntemi\bin\Debug\net5.0\HataYöntemi.deps.json
+C:\Users\Lenovo\source\repos\PatikaCSharpCourse\HataYöntemi\bin\Debug\net5.0\HataYöntemi.runtimeconfig.json
+C:\Users\Lenovo\source\repos\PatikaCSharpCourse\HataYöntemi\bin\Debug\net5.0\HataYöntemi.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\PatikaCSharpCourse\HataYöntemi\bin\Debug\net5.0\HataYöntemi.dll
+C:\Users\Lenovo\source\repos\PatikaCSharpCourse\HataYöntemi\bin\Debug\net5.0\HataYöntemi.pdb
+C:\Users\Lenovo\source\repos\PatikaCSharpCourse\HataYöntemi\obj\Debug\net5.0\HataYöntemi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\PatikaCSharpCourse\HataYöntemi\obj\Debug\net5.0\HataYöntemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\PatikaCSharpCourse\HataYöntemi\obj\Debug\net5.0\HataYöntemi.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\PatikaCSharpCourse\HataYöntemi\obj\Debug\net5.0\HataYöntemi.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\PatikaCSharpCourse\HataYöntemi\obj\Debug\net5.0\HataYöntemi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\PatikaCSharpCourse\HataYöntemi\obj\Debug\net5.0\HataYöntemi.dll
+C:\Users\Lenovo\source\repos\PatikaCSharpCourse\HataYöntemi\obj\Debug\net5.0\refint\HataYöntemi.dll
+C:\Users\Lenovo\source\repos\PatikaCSharpCourse\HataYöntemi\obj\Debug\net5.0\HataYöntemi.pdb
+C:\Users\Lenovo\source\repos\PatikaCSharpCourse\HataYöntemi\obj\Debug\net5.0\HataYöntemi.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\PatikaCSharpCourse\HataYöntemi\obj\Debug\net5.0\ref\HataYöntemi.dll
